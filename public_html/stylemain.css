@@ -1,0 +1,39 @@
+.main{
+    width: 100%;
+    display: flex;
+    
+    overflow: auto;
+    background: chartreuse
+}
+
+
+.div1 {
+  background: aqua;  
+width: auto;
+
+
+ 
+}
+
+.div2 {
+  background: blue;  
+
+ width: auto;
+  
+  
+}
+
+.div3 {
+  background: gold ; 
+  width: auto;
+  
+
+}
+/*.clir{
+    
+    clear: both;
+
+}*/
+
+
+
